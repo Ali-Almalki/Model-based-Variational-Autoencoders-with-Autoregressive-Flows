@@ -23,3 +23,5 @@
 
 ### Finally, we run the visualisation.
     python model.py car_racing --filename ./controller/car_racing.cma.4.32.best.json --render_mode --record_video
+    
+# Results 
